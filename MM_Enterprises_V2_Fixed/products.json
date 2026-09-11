@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B001",
+    "category": "brushes",
+    "brand": "ShilpiPro",
+    "name": "ShilpiPro Brush S-1",
+    "size": "S-1",
+    "price": 0,
+    "image": "assets/brushes.jpg",
+    "desc": "Professional paint brush for controlled paint application.",
+    "featured": true
+  },
+  {
+    "id": "B002",
+    "category": "brushes",
+    "brand": "ShilpiPro",
+    "name": "ShilpiPro Brush S-2",
+    "size": "S-2",
+    "price": 0,
+    "image": "assets/brushes.jpg",
+    "desc": "Professional paint brush for smooth coverage.",
+    "featured": true
+  },
+  {
+    "id": "B003",
+    "category": "brushes",
+    "brand": "ShilpiPro",
+    "name": "ShilpiPro Brush S-3",
+    "size": "S-3",
+    "price": 0,
+    "image": "assets/brushes.jpg",
+    "desc": "Professional paint brush for painting projects.",
+    "featured": true
+  },
+  {
+    "id": "R001",
+    "category": "rollers",
+    "brand": "MM Enterprises",
+    "name": "Wall Paint Roller",
+    "size": "Ask for sizes",
+    "price": 0,
+    "image": "",
+    "desc": "Roller for smooth application on walls and larger surfaces.",
+    "featured": true
+  },
+  {
+    "id": "R002",
+    "category": "rollers",
+    "brand": "MM Enterprises",
+    "name": "Premium Paint Roller",
+    "size": "Ask for sizes",
+    "price": 0,
+    "image": "",
+    "desc": "Higher-comfort roller option for painting projects.",
+    "featured": false
+  },
+  {
+    "id": "T001",
+    "category": "tools",
+    "brand": "MM Enterprises",
+    "name": "Thinner Blade",
+    "size": "Ask for size",
+    "price": 0,
+    "image": "",
+    "desc": "Painting and surface-preparation blade.",
+    "featured": true
+  },
+  {
+    "id": "T002",
+    "category": "tools",
+    "brand": "MM Enterprises",
+    "name": "Surface Scraper",
+    "size": "Ask for size",
+    "price": 0,
+    "image": "",
+    "desc": "Practical scraper for surface preparation.",
+    "featured": false
+  },
+  {
+    "id": "A001",
+    "category": "accessories",
+    "brand": "MM Enterprises",
+    "name": "Painting Accessories",
+    "size": "Various",
+    "price": 0,
+    "image": "",
+    "desc": "Useful accessories for painters and contractors.",
+    "featured": true
+  },
+  {
+    "id": "A002",
+    "category": "accessories",
+    "brand": "MM Enterprises",
+    "name": "Painter's Tool Kit",
+    "size": "Various",
+    "price": 0,
+    "image": "",
+    "desc": "A convenient selection of everyday painting tools.",
+    "featured": false
+  }
+]
